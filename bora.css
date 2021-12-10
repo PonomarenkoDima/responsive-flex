@@ -1,0 +1,28 @@
+body {
+  background-color: #FC997C;
+}
+h1 {
+  color: #950101 ;
+  background-color: white;
+}
+.blueh3{
+  color: #950101;
+  font-style: oblique;
+  font-size: 20px;
+}
+.blueh4{
+  color: #950101;
+  font-style: oblique;
+  font-size: 20px;
+}
+.table{
+  color: #950101;
+  font-style: normal;
+  font-size: 25px;
+}
+tr {
+  background-color:#FEF1E6;
+}
+p{
+  font-style:oblique;
+}
